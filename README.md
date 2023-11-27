@@ -1,1 +1,1 @@
-# Online Bill Payment Project Using React JS
+# Online Bill Payment Project Using React.JS
